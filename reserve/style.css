@@ -1,0 +1,13 @@
+
+form {
+     width: 600px;
+     border: solid 1px black;
+ }
+ 
+label {
+    display: block;
+   }
+ 
+.example{
+    text-align: center;
+}

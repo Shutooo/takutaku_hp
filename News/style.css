@@ -1,0 +1,22 @@
+h1{
+    font-size: xx-large;
+    text-align: center;
+    color: firebrick;
+}
+
+
+.twitter-timeline{
+    margin: 20px; 
+    padding: 105px 10px 50px 10px; 
+}
+header {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: auto; 
+    padding: 10px; 
+    background-color: white; 
+}
+
+
